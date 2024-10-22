@@ -1,6 +1,14 @@
 # Cards
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+## Overview
+
+The Cards application is a simple Angular project that displays a list of posts using card components. Each card represents a post with a title, image, username, and content. The application is designed to showcase how to use Angular components, data binding, and input properties.
+
+## Key Features
+
+**Display Posts**: The application displays a list of posts, each with a title, image, username, and content.
+**Reusable Card Component**: The application uses a reusable card component to display each post.
+**Data Binding**: The application demonstrates the use of Angular's data binding to pass data from the parent component to the child card component.
 
 ## Development server
 
@@ -21,7 +29,3 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
